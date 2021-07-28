@@ -45,6 +45,9 @@ S14_Lung8       S4_4T1_Ctrl     #ff0000
 ```
 
 ## 2. Run subsequence analysis
+Diricore runs in Python 2, so we need to activate that environment:
+
+```conda activate diricore```
 
 Subsequence analysis:  
 
