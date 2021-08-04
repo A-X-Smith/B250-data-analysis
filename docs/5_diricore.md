@@ -84,6 +84,8 @@ Looks much better now:
 
 ## 3. Run RFP density analysis
 
+Create rpf_density files first (same inpput as subsequence files)!
+
 RPF density: 
 
 ```
